@@ -4275,10 +4275,10 @@ fastparse@^1.0.0:
   resolved "https://registry.yarnpkg.com/fastparse/-/fastparse-1.1.2.tgz#91728c5a5942eced8531283c79441ee4122c35a9"
   integrity sha512-483XLLxTVIwWK3QTrMGRqUfUpoOs/0hbQrl2oz4J0pAcm3A3bu84wxTFqGqkJzewCLdME38xJLJAxBABfQT8sQ==
 
-favicons-webpack-plugin@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/favicons-webpack-plugin/-/favicons-webpack-plugin-1.0.1.tgz#9f31cf4f87943c1f927fb93c1c6b451b1b782729"
-  integrity sha512-XW/8I/H2xS/BHN+fK4FKBT/qfCUaiNgB/38D64HmKMClyOyRYL9pPML2/MF8/eqnx8cRJG7vtPY/7QN87T+sjA==
+favicons-webpack-plugin@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/favicons-webpack-plugin/-/favicons-webpack-plugin-1.0.2.tgz#d9e66cff6f2b83e501c4b78702ad01403afd7cd9"
+  integrity sha512-iLsbVEhD4gimlI7B8Q8MnouUSebYK5UFFUNk8BUq249gHrJZ5wijoPdAuMOgEenw8dm53hPWqoKAt5UCVsoLrg==
   dependencies:
     cache-loader "^3.0.1"
     camelcase "^5.3.1"
