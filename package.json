@@ -16,7 +16,7 @@
   "author": "team@graffino.com",
   "license": "MIT",
   "devDependencies": {
-    "@babel/core": "^7.5.5",
+    "@babel/core": "^7.6.0",
     "@babel/preset-env": "^7.5.5",
     "@degjs/module-loader": "^5.1.0",
     "autoprefixer": "^9.6.1",
